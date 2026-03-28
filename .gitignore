@@ -1,0 +1,9 @@
+# Compiler output
+cache/
+out/
+
+# Deployment artifacts
+broadcast/
+
+# Environment variables
+.env

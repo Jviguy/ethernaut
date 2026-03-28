@@ -1,0 +1,2 @@
+openzeppelin-contracts-06/=lib/openzeppelin-contracts-06/contracts/
+@openzeppelin/=lib/openzeppelin-contracts/contracts/

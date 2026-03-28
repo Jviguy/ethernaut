@@ -1,0 +1,7 @@
+push1 0x2A
+push1 0x00
+mstore
+
+push1 0x20
+push1 0x00
+return
